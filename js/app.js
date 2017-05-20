@@ -1,4 +1,5 @@
 require('../app.scss');
+require('../index.html');
 
 let x = 5;
 
